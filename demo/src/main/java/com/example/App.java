@@ -2,8 +2,6 @@ package com.example;
 
 import java.util.Scanner;
 
-import org.jcp.xml.dsig.internal.dom.ApacheOctetStreamData;
-
 /**
  * Hello world!
  *
