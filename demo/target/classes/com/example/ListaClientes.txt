@@ -1,0 +1,2 @@
+0,bruno,servidor publico
+1,Lucelia,aposetada

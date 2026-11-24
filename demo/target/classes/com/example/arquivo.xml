@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<listaClientes>
+    <cliente>
+        <id>0</id>
+        <nome>bruno</nome>
+        <profissao>servidor publico</profissao>
+    </cliente>
+    <cliente>
+        <id>1</id>
+        <nome>Lucelia</nome>
+        <profissao>aposetada</profissao>
+    </cliente>
+</listaClientes>
